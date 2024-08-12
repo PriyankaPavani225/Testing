@@ -5,7 +5,7 @@ import org.junit.Test;
 public class SampleProject {
 	@Test
 	public void sampleMethod() {
-		System.out.println("Hi");
+		System.out.println("Hi How are you");
 	}
 
 }
